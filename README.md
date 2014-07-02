@@ -4,7 +4,7 @@ Country flags made with pure CSS to avoid loading of images.
 
 Work in progress, live example see <http://codepen.io/hagenburger/pen/wnkDo>.
 
-![Preview of flags](https://cdn.rawgit.com/hagenburger/css-flags/css-flags.png)
+![Preview of flags](https://raw.githubusercontent.com/hagenburger/css-flags/master/css-flags.png)
 
 
 ## Contributing
