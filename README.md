@@ -4,7 +4,7 @@ Country flags made with pure CSS to avoid loading of images.
 
 Work in progress, live example see <http://codepen.io/hagenburger/pen/wnkDo>.
 
-![Preview of flags](http://s3-us-west-2.amazonaws.com/i.cdpn.io/70396.wnkDo.59da2aee-6c88-432e-948d-ab5320988644.png)
+![Preview of flags](https://cdn.rawgit.com/hagenburger/css-flags/css-flags.png)
 
 
 ## Contributing
